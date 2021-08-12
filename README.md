@@ -1,3 +1,3 @@
 # cs-form-framework-mysql-05
 コンボボックスをDBより読み込んで作成
-![image](https://user-images.githubusercontent.com/1501327/129142652-a6a567ca-60f7-4c67-9e1d-aaeaa0b2230e.png)
+![image](https://user-images.githubusercontent.com/1501327/129143668-98df7e76-2e9d-482e-b80d-b6c78164816e.png)
